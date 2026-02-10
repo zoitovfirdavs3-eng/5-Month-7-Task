@@ -1,0 +1,22 @@
+{"level":"debug","message":"REGISTER attempt with data: {\"full_name\":\"Firdavs Zoitov\",\"age\":17,\"email\":\"zoitovfirdavs3@gmail.com\",\"password\":\"firdavs123\"}"}
+{"level":"warn","message":"REGISTER failed: email already exists: zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}
+{"level":"debug","message":"LOGIN attempt: zoitovfirdavs3@gmail.com"}
+{"level":"warn","message":"LOGIN failed: user not found -> zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"LOGIN error: ClientError: User not found or user already activated !"}
+{"level":"debug","message":"VERIFY request: {\"email\":\"zoitovfirdavs3@gmail.com\",\"otp\":\"17875\"}"}
+{"level":"warn","message":"VERIFY failed: OTP expired for zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"VERIFY error: ClientError: OTP expired ! !"}
+{"level":"debug","message":"RESEND_OTP attempt: {\"email\":\"zoitovfirdavs3@gmail.com\"}"}
+{"level":"info","message":"Code sent to email zoitovfirdavs3@gmail.com"}
+{"level":"debug","message":"VERIFY request: {\"email\":\"zoitovfirdavs3@gmail.com\",\"otp\":\"360275\"}"}
+{"level":"error","message":"VERIFY error: data is not defined"}
+{"level":"debug","message":"REGISTER attempt with data: {\"full_name\":\"Firdavs Zoitov\",\"age\":17,\"email\":\"zoitovfirdavs3@gmail.com\",\"password\":\"firdavs123\"}"}
+{"level":"info","message":"Code sent to email zoitovfirdavs3@gmail.com"}
+{"level":"debug","message":"VERIFY request: {\"email\":\"zoitovfirdavs3@gmail.com\",\"otp\":\"244082\"}"}
+{"level":"error","message":"VERIFY error: data is not defined"}
+{"level":"debug","message":"REGISTER attempt with data: {\"full_name\":\"Firdavs Zoitov\",\"age\":17,\"email\":\"zoitovfirdavs3@gmail.com\",\"password\":\"firdavs123\"}"}
+{"level":"warn","message":"REGISTER failed: email already exists: zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}
+{"level":"debug","message":"LOGIN attempt: zoitovfirdavs3@gmail.com"}
+{"level":"info","message":"LOGIN success: zoitovfirdavs3@gmail.com"}

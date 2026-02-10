@@ -1,0 +1,6 @@
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}
+{"level":"error","message":"LOGIN error: ClientError: User not found or user already activated !"}
+{"level":"error","message":"VERIFY error: ClientError: OTP expired ! !"}
+{"level":"error","message":"VERIFY error: data is not defined"}
+{"level":"error","message":"VERIFY error: data is not defined"}
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}

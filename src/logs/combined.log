@@ -1,0 +1,13 @@
+{"level":"warn","message":"REGISTER failed: email already exists: zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}
+{"level":"warn","message":"LOGIN failed: user not found -> zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"LOGIN error: ClientError: User not found or user already activated !"}
+{"level":"warn","message":"VERIFY failed: OTP expired for zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"VERIFY error: ClientError: OTP expired ! !"}
+{"level":"info","message":"Code sent to email zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"VERIFY error: data is not defined"}
+{"level":"info","message":"Code sent to email zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"VERIFY error: data is not defined"}
+{"level":"warn","message":"REGISTER failed: email already exists: zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}
+{"level":"info","message":"LOGIN success: zoitovfirdavs3@gmail.com"}

@@ -1,0 +1,3 @@
+{"level":"warn","message":"REGISTER failed: email already exists: zoitovfirdavs3@gmail.com"}
+{"level":"error","message":"REGISTER error: ClientError: User already exists ! !"}
+{"level":"info","message":"LOGIN success: zoitovfirdavs3@gmail.com"}
